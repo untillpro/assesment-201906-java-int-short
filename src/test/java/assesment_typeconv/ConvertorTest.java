@@ -17,7 +17,5 @@ public class ConvertorTest {
 		System.out.println(Convertor.crack(0));
 		System.out.println(Convertor.uncrack(Convertor.crack(0)));
 		fail("Not implemented yet");
-		
 	}
-
 }
