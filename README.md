@@ -13,6 +13,6 @@ You should develop `Convertor` to convert value of `int` type to two `short` val
 
 - Document is identified by ID
 - ID is of `int` type
-- We need to store documents in Cassandra
+- We need to store documents using Apache Cassandra
 - For Cassandra we will use two `short`s as a primary key, to optimize partition size
 - Therefore we need to convert `int` to `short`'s and vice versa
