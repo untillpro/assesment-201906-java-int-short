@@ -9,10 +9,10 @@
 package assesment_typeconv;
 
 public class Convertor {
-	public static Cracked crack(long value) {
-		return new Cracked(0, 0);		
+	public static Cracked crack(int value) {
+		return new Cracked((short)0, (short)0);		
 	}
-	public static long  uncrack(Cracked cracked ) {
+	public static int uncrack(Cracked cracked ) {
 		return 0;
 	}
 }

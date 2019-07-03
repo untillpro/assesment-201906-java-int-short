@@ -13,9 +13,9 @@ public class Cracked {
 	public String toString() {
 		return "Cracked [hi=" + hi + ", low=" + low + "]";
 	}
-	public int hi;
-	public int low;
-	public Cracked(int hi, int low) {
+	public short hi;
+	public short low;
+	public Cracked(short hi, short low) {
 		this.hi = hi;
 		this.low = low;		
 	}
