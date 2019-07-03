@@ -2,7 +2,7 @@
 
 Assesment test for `Java developer` position. 
 
-You should develop `Convertor` to convert value of `long` type to two int values (`crack` method) and backwards (`uncrack` method)
+You should develop `Convertor` to convert value of `long` type to two int values (`crack` method) and back to orignal value (`uncrack` method)
 
 - Fork this repo
 - Implement [Convertor](src/main/java/assesment_typeconv/Convertor.java)
