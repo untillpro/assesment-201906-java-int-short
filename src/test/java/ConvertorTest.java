@@ -11,7 +11,7 @@ import static org.junit.Assert.fail;
 public class ConvertorTest {
 	
 	@Test
-	public void crackUncrack() {
+	public void notImplemented() {
 		System.out.println(Convertor.crack(0));
 		System.out.println(Convertor.uncrack(Convertor.crack(0)));
 		fail("Not implemented yet");
