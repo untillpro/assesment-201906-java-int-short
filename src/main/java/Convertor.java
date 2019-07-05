@@ -6,8 +6,6 @@
  */
 
 
-package assesment_typeconv;
-
 public class Convertor {
 	public static Cracked crack(int value) {
 		return new Cracked((short)0, (short)0);		

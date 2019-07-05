@@ -5,8 +5,6 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package assesment_typeconv;
-
 import org.junit.Test;
 import static org.junit.Assert.fail;
 

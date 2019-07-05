@@ -6,8 +6,6 @@
  */
 
 
-package assesment_typeconv;
-
 public class Cracked {
 	@Override
 	public String toString() {
