@@ -1,10 +1,9 @@
-# assesment_typeconv
+# Description
 
 Assesment test for `Java developer` position. 
 
 You should develop `Convertor` to convert value of `int` type to two `short` values (`crack` method) and back to orignal value (`uncrack` method)
 
-- Fork this repo
 - Implement [Convertor](src/main/java/Convertor.java)
 - Implement [ConvertorTest](src/test/java/ConvertorTest.java)
 - `gradlew test` should be fine
