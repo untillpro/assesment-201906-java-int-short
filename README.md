@@ -2,7 +2,7 @@
 
 Assesment test for `Java developer` position. 
 
-You should develop `Convertor` to convert value of `int` type to two `short` values (`crack` method) and back to orignal value (`uncrack` method)
+You should develop `Convertor` to convert value of `int` type to two `short` values (`crack()` method) and back to orignal value (`uncrack()` method)
 
 - Please do NOT fork this repo since others will see your results
 - Implement [Convertor](src/main/java/Convertor.java)
