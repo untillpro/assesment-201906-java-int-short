@@ -8,7 +8,7 @@ You should develop `Convertor` to convert value of `int` type to two `short` val
 - Implement [Convertor](src/main/java/Convertor.java)
 - Implement [ConvertorTest](src/test/java/ConvertorTest.java)
 - `gradlew test` should be fine
-- Send result to us
+- Send us the link to your repo
 
 # Rationale
 
